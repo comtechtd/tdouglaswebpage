@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TOR.COMPTECH.BLOG</title>
+<style type="test/css">
+    body    (
+        font-family: copperplate:
+        background:color:000000;)
+        background-image:url(vectorassignment-tdouglas.jpg)
+        backgroung-repeat: repeat-x;)  
+    h1  (
+        color:#6A5ACD;)
+    h2  (
+        color:#6A5ACD;)
+    h3  (
+        color:#6A5ACD;)
+  </style>
+</head> 
+<body>
+<h1>Assignments</h1>
+<h2>*****</h2>
+<img.>DigitalCollage_t.douglas.jpg</img.>
+<p>Digital Collage</p>
+<img.>imageoptimization_tdouglas.jpg</img.>
+<p2>Image Optimization</p2>
+</body>
+</html> 
